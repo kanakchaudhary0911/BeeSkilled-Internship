@@ -10,23 +10,26 @@ The objective of this internship is to strengthen problem-solving skills by impl
 
 # 📂 Repository Structure
 
-```
+```text
 BeeSkilled-Internship
 │
-├── Week-1
+├── Week-1-Arrays-Searching-Sorting
 │   ├── assignments
 │   ├── practice-set
 │   ├── mini-project
 │   └── README.md
 │
-├── Week-2
+├── Week-2-LinkedList-Stack-Queue
 │   ├── assignments
 │   ├── practice-set
 │   ├── mini-project
 │   └── README.md
 │
-├── Week-3
-│   └── (Coming Soon)
+├── Week-3-Trees-Hashing
+│   ├── assignments
+│   ├── practice-set
+│   ├── mini-project
+│   └── README.md
 │
 ├── Week-4
 │   └── (Coming Soon)
@@ -39,11 +42,11 @@ BeeSkilled-Internship
 # 📅 Internship Progress
 
 | Week | Topics | Status |
-|------|--------|--------|
+|------|--------|---------|
 | ✅ Week 1 | Arrays, Searching & Sorting | Completed |
 | ✅ Week 2 | Linked Lists, Stacks & Queues | Completed |
-| ⏳ Week 3 | Coming Soon | In Progress |
-| ⏳ Week 4 | Coming Soon | Pending |
+| ✅ Week 3 | Trees, Hashing & Recursion | Completed |
+| ⏳ Week 4 | Advanced DSA & Final Project | Coming Soon |
 
 ---
 
@@ -57,6 +60,13 @@ Throughout this internship, I am learning and implementing:
 - Linked Lists
 - Stacks
 - Queues
+- Trees
+- Binary Search Trees (BST)
+- Tree Traversals
+- Hashing
+- Hash Tables
+- Collision Handling (Linear Probing)
+- Recursion
 - Dynamic Memory Allocation
 - Problem Solving
 - Time Complexity Analysis
@@ -82,7 +92,7 @@ Each week contains:
 
 - 📘 Assignments
 - 💡 Practice Problems
-- 🚀 Mini Project
+- 🚀 Mini Projects
 - 📄 Week Documentation
 
 ---
@@ -100,10 +110,10 @@ Each week contains:
 
 # 📈 Progress Tracker
 
-```
+```text
 Week 1  ██████████ 100%
 Week 2  ██████████ 100%
-Week 3  ░░░░░░░░░░   0%
+Week 3  ██████████ 100%
 Week 4  ░░░░░░░░░░   0%
 ```
 
@@ -115,24 +125,61 @@ Week 4  ░░░░░░░░░░   0%
 |------|---------|
 | Week 1 | Student Marks Analyzer |
 | Week 2 | Undo-Redo Text Editor Simulation |
-| Week 3 | Coming Soon |
+| Week 3 | Contact Directory (BST Based) |
 | Week 4 | Coming Soon |
+
+---
+
+# 📖 Topics Covered by Week
+
+### 📅 Week 1
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Reverse Array
+- Student Marks Analyzer
+
+### 📅 Week 2
+- Singly Linked List
+- Stack using Linked List
+- Queue using Array
+- Reverse Linked List using Stack
+- Undo-Redo Text Editor
+
+### 📅 Week 3
+- Binary Search Tree (BST)
+- Tree Traversals
+- HashMap using Arrays
+- Linear Probing Hash Table
+- Recursion
+- Contact Directory using BST
+
+### 📅 Week 4 *(Coming Soon)*
+- Advanced DSA Problems
+- Optimization Techniques
+- Final Mini Project
 
 ---
 
 # 📌 Highlights
 
-✔ Well-structured C++ programs
+✔ Clean and well-structured C++ programs
 
-✔ Clean folder organization
+✔ Organized weekly repository structure
 
 ✔ Menu-driven implementations
 
-✔ Hands-on Data Structures practice
+✔ Hands-on Data Structures & Algorithms practice
+
+✔ Recursive programming techniques
+
+✔ Hashing and Binary Search Trees
+
+✔ Real-world mini projects
 
 ✔ Git & GitHub version control
 
-✔ Real-world mini projects
+✔ Professional documentation
 
 ---
 
@@ -140,7 +187,7 @@ Week 4  ░░░░░░░░░░   0%
 
 **Kanak Chaudhary**
 
-Aspiring Software Developer | C++ | DSA | Java | Web Development
+**Aspiring Software Developer | C++ | DSA | Java | Web Development**
 
 ---
 
